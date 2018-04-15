@@ -1,45 +1,45 @@
-<b>Playnite Pessoal</b><br>
+ <b>Playnite Pessoal</b><br
 Contém:<br>
 44 Jogos, entre steam, Origin e GOG<br>
-<ul class="bb_ul"><li><br>Arma 3 </li>
-Ashes of the Singularity : Escalation
-<li><br>Awesomenauts</li>
-<li><br>Battlefield 1</li>
-<li><br>Battlefield 3
-<li><br>Battlefield 4</li>
-<li><br>BeamNG.drive</li>
-<li><br>Brick Rigs
-<li><br>Brink</li>
-Call of Duty : Black ops
-<li><br>Call of Duty: WWII</li>
-<li><br>Car Mechanic Simulator 2014</li>
-<li><br>CS:GO</li>
-<li><br>Destiny 2</li>
-<li><br>Disney Infinity 3.0 Gold Edition</li>
-<li><br>Euro Truck Simulator 2</li>
-<li><br>Factorio</li>
-<li><br>FIFA 15</li>
-<li><br>FIFA 16</li>
-<li><br>FIFA 17</li>
-<li><br>FIFA 18</li>
-<li><br>Final Fantasy Type-0 HD</li>
-<li><br>Forza Horizon 3</li>
-<li><br>Forza Motosport 6</li>
-<li><br>GTA V</li>
-<li><br>HOI4:Colonel Edition</li>
-<li><br>Mass Effect Andromeda
-<li><br>Mirror's Edge Catalyst
-<li><br>No Man's Sky</li>
-<li><br>Project Cars 2</li>
-<li><br>Section 8: Prejudice</li>
-<li><br>Simple Planes</li>
-<li><br>Space Engineers</li>
-<li><br>Star Wars Battlefront Ultimate Edition</li>
-<li><br>Star Wars Battlefront 2</li>
-<li><br>SWKotOR</li>
-<li><br>Stardew valley</li>
-<li><br>Subnautica</li>
-<li><br>The Sims 3
-<li><br>The Sims 4
-<li><br>Ghost Recon Wildlands</li>
-<li><br>Unreal Tournament 3</li>
+<ul class="bb_ul"><li>Arma 3 </li><br />
+<li>Ashes of the Singularity : Escalation</li><br />
+<li>Awesomenauts</li><br />
+<li>Battlefield 1</li><br />
+  li>Battlefield 3</li><br />
+<li>Battlefield 4</li>
+<li>BeamNG.drive</li>
+<li>Brick Rigs</li><br />
+<li>Brink</li><br />
+<li>Call of Duty : Black ops</li><br />
+<li>Call of Duty: WWII</li><br />
+<li>Car Mechanic Simulator 2014</li><br />
+<li>CS:GO</li><br />
+<li>Destiny 2</li><br />
+<li>Disney Infinity 3.0 Gold Edition</li><br />
+<li>Euro Truck Simulator 2</li><br />
+<li>Factorio</li><br />
+<li>FIFA 15</li><br />
+<li>FIFA 16</li><br />
+<li>FIFA 17</li><br />
+<li><FIFA 18</li><br />
+<li>Final Fantasy Type-0 HD</li><br />
+<li>Forza Horizon 3</li><br />
+<li>Forza Motosport 6</li><br />
+<li>GTA V</li><br />
+<li>HOI4:Colonel Edition</li><br />
+<li>Mass Effect Andromeda</li><br />
+<li>Mirror's Edge Catalyst</li><br />
+<li>No Man's Sky</li><br />
+<li>Project Cars 2</li><br />
+<li>Section 8: Prejudice</li><br />
+<li>Simple Planes</li><br />
+<li>Space Engineers</li><br />
+<li>Star Wars Battlefront Ultimate Edition</li><br />
+<li>Star Wars Battlefront 2</li><br />
+<li>SWKotOR</li><br />
+<li>Stardew valley</li><br />
+<li>Subnautica</li><br />
+<li>The Sims 3</li><br />
+<li>The Sims 4</li><br />
+<li>Ghost Recon Wildlands</li><br />
+<li>Unreal Tournament 3</li><br />
